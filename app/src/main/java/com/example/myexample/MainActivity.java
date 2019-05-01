@@ -14,6 +14,5 @@ public class MainActivity extends AppCompatActivity {
 
         //second comment
 
-        //New comments
     }
 }
